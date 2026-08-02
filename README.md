@@ -31,8 +31,8 @@ The organization needed to understand the key factors affecting delivery perform
 
 # 🛠️ Tech Stack
 
-• Python (Pandas, NumPy) – Data cleaning, preprocessing, feature engineering and exploratory data analysis (EDA).
-• SQL – Data querying, transformation, aggregation and KPI development.
+- Python (Pandas, NumPy) – Data cleaning, preprocessing, feature engineering and exploratory data analysis (EDA).
+- SQL – Data querying, transformation, aggregation and KPI development.
 • Scikit-learn – Built a Random Forest model to predict delivery delays.
 • Matplotlib & Seaborn – Created analytical visualizations for trend and pattern analysis.
 • Power BI – Developed interactive dashboards for monitoring operational KPIs and business performance.
