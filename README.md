@@ -40,46 +40,46 @@ The organization needed to understand the key factors affecting delivery perform
 
 # ✨ Features / Highlights
 
-• 📊 Analyzed 172K+ Global E-commerce Orders to uncover delivery trends, profitability insights and supply chain performance.
-• 🧹 Performed End-to-End Data Preparation, including data cleaning, preprocessing, feature engineering and exploratory data analysis (EDA).
-• 📈 Developed Business KPIs to monitor delivery performance, shipping efficiency, customer behavior, and financial metrics.
-• 🔍 Conducted Root Cause Analysis to identify factors contributing to delayed deliveries and operational inefficiencies.
-• 🤖 Built a Random Forest Predictive Model achieving 74% accuracy to identify high-risk deliveries.
-• 📊 Designed Interactive Power BI Dashboards with KPI cards, drill-through analysis, filters, and business-focused visualizations.
-• 💡 Generated Actionable Business Recommendations to improve delivery performance, reduce operational risks, and support data-driven decision-making.
+- 📊 Analyzed 172K+ Global E-commerce Orders to uncover delivery trends, profitability insights and supply chain performance.
+- 🧹 Performed End-to-End Data Preparation, including data cleaning, preprocessing, feature engineering and exploratory data analysis (EDA).
+- 📈 Developed Business KPIs to monitor delivery performance, shipping efficiency, customer behavior, and financial metrics.
+- 🔍 Conducted Root Cause Analysis to identify factors contributing to delayed deliveries and operational inefficiencies.
+- 🤖 Built a Random Forest Predictive Model achieving 74% accuracy to identify high-risk deliveries.
+- 📊 Designed Interactive Power BI Dashboards with KPI cards, drill-through analysis, filters, and business-focused visualizations.
+- 💡 Generated Actionable Business Recommendations to improve delivery performance, reduce operational risks, and support data-driven decision-making.
 
 # 💼 Business Impact
-• Enabled data driven decision-making through an end-to-end supply chain analytics solution.
-• Improved visibility into delivery performance, profitability and operational KPIs using interactive dashboards.
-• Demonstrated the use of predictive analytics to proactively identify high-risk deliveries and support logistics optimization.
+- Enabled data driven decision-making through an end-to-end supply chain analytics solution.
+- Improved visibility into delivery performance, profitability and operational KPIs using interactive dashboards.
+- Demonstrated the use of predictive analytics to proactively identify high-risk deliveries and support logistics optimization.
 
 # 📊 Key Insights
 
-• 📦 54.7% of orders experienced delayed deliveries.
-• 💰 Delayed deliveries impacted approximately $2.1M in profit.
-• 🤖 Predictive model achieved 74% accuracy in identifying delivery risks.
-• 📈 Root cause analysis highlighted operational bottlenecks affecting shipping performance.
+- 📦 54.7% of orders experienced delayed deliveries.
+- 💰 Delayed deliveries impacted approximately $2.1M in profit.
+- 🤖 Predictive model achieved 74% accuracy in identifying delivery risks.
+- 📈 Root cause analysis highlighted operational bottlenecks affecting shipping performance.
 
 # 📈 Results
 
-• Processed and analyzed supply chain records to uncover operational and financial insights.
-• Identified 54.7% delayed deliveries and their impact on approximately $2.1M in profit.
-• Built a 74% accurate predictive model for delivery delay forecasting.
-• Delivered executive dashboards for monitoring KPIs and supply chain performance.
+- Processed and analyzed supply chain records to uncover operational and financial insights.
+- Identified 54.7% delayed deliveries and their impact on approximately $2.1M in profit.
+- Built a 74% accurate predictive model for delivery delay forecasting.
+- Delivered executive dashboards for monitoring KPIs and supply chain performance.
 
 # 💡 Recommendations
 
-• Optimize shipping and fulfillment processes to reduce delivery delays.
-• Use predictive analytics to proactively manage high-risk shipments.
-• Monitor operational KPIs through interactive dashboards.
-• Continuously refine logistics strategies using data-driven insights.
+- Optimize shipping and fulfillment processes to reduce delivery delays.
+- Use predictive analytics to proactively manage high-risk shipments.
+- Monitor operational KPIs through interactive dashboards.
+- Continuously refine logistics strategies using data-driven insights.
 
 # 🚀 Future Work
-• Integrate real-time supply chain data using cloud-based data pipelines.
-• Enhance predictive accuracy with advanced machine learning models and feature engineering.
-• Build automated ETL workflows for seamless data refresh and reporting.
-• Deploy dashboards for enterprise-scale analytics.
-• Incorporate Generative AI to generate automated business insights and executive summaries.
-• Extend the solution with prescriptive analytics to recommend actions for reducing delivery delays and optimizing logistics.
+- Integrate real-time supply chain data using cloud-based data pipelines.
+- Enhance predictive accuracy with advanced machine learning models and feature engineering.
+- Build automated ETL workflows for seamless data refresh and reporting.
+- Deploy dashboards for enterprise-scale analytics.
+- Incorporate Generative AI to generate automated business insights and executive summaries.
+- Extend the solution with prescriptive analytics to recommend actions for reducing delivery delays and optimizing logistics.
 
 
