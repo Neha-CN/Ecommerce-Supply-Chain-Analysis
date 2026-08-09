@@ -68,4 +68,3 @@ The organization needed to understand the key factors affecting delivery perform
 - Deploy dashboards for enterprise-scale analytics.
 - Incorporate Generative AI to generate automated business insights and executive summaries.
 - Extend the solution with prescriptive analytics to recommend actions for reducing delivery delays and optimizing logistics.
-- 
