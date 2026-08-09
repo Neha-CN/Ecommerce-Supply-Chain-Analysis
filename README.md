@@ -9,9 +9,13 @@ The organization needed to understand the key factors affecting delivery perform
 
 # Data Source
 **Dataset:** DataCo Global Supply Chain Dataset
+
 **Domain:** Supply Chain & E-commerce Analytics
+
 **Source:** Public Dataset (Kaggle) , https://www.kaggle.com/datasets/jolenechen/datacosupplychaindataset
+
 **Dataset Size:** 172,000+ Global Order Records
+
 **Key Attributes:**
 - Customer Information
 - Product Details
